@@ -1,0 +1,102 @@
+[
+    {
+        "category": "products",
+        "question": "What products do you offer?",
+        "answer": "PackPro Solutions offers custom boxes, mailer boxes, gift boxes, food packaging, kraft packaging, and e-commerce packaging."
+    },
+    {
+        "category": "products",
+        "question": "Do you make custom boxes?",
+        "answer": "Yes. We manufacture customized packaging boxes according to your required size, material, printing and finishing."
+    },
+    {
+        "category": "products",
+        "question": "Do you make mailer boxes?",
+        "answer": "Yes. We provide custom mailer boxes suitable for e-commerce and product shipping."
+    },
+    {
+        "category": "products",
+        "question": "Do you make gift boxes?",
+        "answer": "Yes. We offer customized gift boxes with different materials, printing and finishing options."
+    },
+    {
+        "category": "materials",
+        "question": "What materials do you use?",
+        "answer": "We offer kraft paper, corrugated cardboard, paperboard and rigid board packaging."
+    },
+    {
+        "category": "materials",
+        "question": "Do you offer kraft packaging?",
+        "answer": "Yes. Kraft packaging is available for several custom packaging products."
+    },
+    {
+        "category": "customization",
+        "question": "Can I customize the box size?",
+        "answer": "Yes. Customers can provide custom length, width and height requirements."
+    },
+    {
+        "category": "customization",
+        "question": "Can you print my logo?",
+        "answer": "Yes. We provide custom logo and artwork printing on suitable packaging products."
+    },
+    {
+        "category": "customization",
+        "question": "What finishing options are available?",
+        "answer": "Available finishing options may include matte or gloss finishing, foiling and embossing depending on the packaging type."
+    },
+    {
+        "category": "moq",
+        "question": "What is your MOQ?",
+        "answer": "Our standard minimum order quantity is 100 units, although MOQ can vary depending on the product and customization."
+    },
+    {
+        "category": "moq",
+        "question": "What is the minimum order quantity?",
+        "answer": "Our standard minimum order quantity is 100 units. Some customized products may have different requirements."
+    },
+    {
+        "category": "samples",
+        "question": "Can I get a sample?",
+        "answer": "Yes. Samples can be requested before placing a bulk production order."
+    },
+    {
+        "category": "production",
+        "question": "How long does production take?",
+        "answer": "Standard production generally takes 7 to 14 business days after artwork approval."
+    },
+    {
+        "category": "production",
+        "question": "How long will my order take?",
+        "answer": "The standard production time is approximately 7 to 14 business days after artwork approval."
+    },
+    {
+        "category": "delivery",
+        "question": "Do you provide delivery?",
+        "answer": "Yes. Delivery arrangements can be discussed based on the customer's location and order requirements."
+    },
+    {
+        "category": "quotation",
+        "question": "How can I get a quotation?",
+        "answer": "To request a quotation, provide the product type, dimensions, quantity, material, printing requirements, finishing and delivery city."
+    },
+    {
+        "category": "quotation",
+        "question": "What information is needed for a quote?",
+        "answer": "We need your product type, length, width, height, quantity, material, printing requirements, finishing and delivery city."
+    },
+    {
+        "category": "pricing",
+        "question": "What affects packaging price?",
+        "answer": "Packaging price depends on product type, dimensions, quantity, material, printing, finishing and delivery requirements."
+    },
+    {
+        "category": "company",
+        "question": "What is PackPro Solutions?",
+        "answer": "PackPro Solutions is an emerging packaging company providing customized packaging solutions for businesses, retailers and e-commerce brands."
+    },
+    {
+        "category": "support",
+        "question": "Can I speak to the sales team?",
+        "answer": "Yes. If your question requires a customized quotation or information outside the knowledge base, please contact the PackPro Solutions sales team."
+    }
+]
